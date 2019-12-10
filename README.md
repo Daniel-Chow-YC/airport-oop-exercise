@@ -1,7 +1,7 @@
-#Specification for Airport 🛫 ✈ 🛬 
+# Specification for Airport 🛫 ✈ 🛬 
 This file has the specification for the airport.
 
-# Aims of project:
+## Aims of project:
 This repo is to explore using Unittest and Pytest.
 
 Use TDD to write some tests, then code the airport interface.
