@@ -1,9 +1,12 @@
+#Specification for Airport 🛫 ✈ 🛬 
+This file has the specification for the airport.
+
+# Aims of project:
 This repo is to explore using Unittest and Pytest.
 
 Use TDD to write some tests, then code the airport interface.
 
-#Specification for Airport
-This file has the specification for the airport.
+
 
 ##Passengers
 - as a user I can create a Passenger
@@ -18,5 +21,5 @@ This file has the specification for the airport.
 - as a user I can add a plane
 - as a User I can add a destination
 - As a user I can add a origin
-- As a user I can add a Passanger to the list of passangers
-- Passenger list is a list of objct that are Passanger
+- As a user I can add a Passenger to the list of passengers
+- Passenger list is a list of objects that are Passengers
